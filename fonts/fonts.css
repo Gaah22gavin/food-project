@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family:"nova-bold" ;
+    src: url(./Mark\ Simonson\ -\ Proxima\ Nova\ Alt\ Bold.otf);
+}
+
+@font-face {
+    font-family: "nova-regular";
+    src: url(./Mark\ Simonson\ -\ Proxima\ Nova\ Alt\ Regular.otf);
+}
+
+
+@font-face {
+    font-family: "montserrat-regular";
+    src: url(./Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: "montserrat-light";
+    src: url(./Montserrat-Light.ttf);
+}
+
+@font-face {
+    font-family: "montserrat-bold";
+    src: url(./Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: "montserrat-thin";
+    src: url(./Montserrat-Thin.ttf);
+}
